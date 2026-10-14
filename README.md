@@ -32,7 +32,7 @@ Proyecto personal de electrónica y firmware, en desarrollo desde 2023. Es un ca
 
 Principio de diseño: la energía del motor y la de la electrónica de control están separadas, para que los picos de corriente del motor no reinicien la ESP32.
 
-![Diagrama de alimentación](../img/diagrama_alimentacion.png)
+![Diagrama de alimentación](img/diagrama_alimentacion.png)
 
 ---
 
@@ -111,7 +111,7 @@ Reglas que se deducen de las pruebas:
 
 El LM2596 se ajusta a **6.0 V** con un multímetro **antes** de conectar el BTS7960.
 
-![Diagrama de señales, colores y pines](../img/diagrama_senales_colores_pines.png)
+![Diagrama de señales, colores y pines](img/diagrama_senales_colores_pines.png)
 
 ---
 
